@@ -16,7 +16,7 @@ For better understanding here is a chart from [McKinsey & Company](https://www.m
 
 ![McKinsey-Disruption](./assets/img/McKinsey-Disruption.jpg)
 
-And here is an extra, an article from the [Harvard Business Review](https://www.linkedin.com/company/harvard-business-review/) dissecting the meaning of [disruptive innovation](./assets/html/HBR/What%20Is%20Disruptive%20Innovation?.html).
+And here is an extra, an article from the [Harvard Business Review](https://www.linkedin.com/company/harvard-business-review/) dissecting the meaning of [disruptive innovation](./assets/html/HBR/).
 
 You may hear from customers being disrupted things like - “Oh, the technology disrupted me. I have been disrupted by technology.” - But if you think about it the technology that was available to the disruptors is the same technology that is available to the incumbents because most of it is open source. The disruptors just had a different business model.
 
